@@ -42,14 +42,14 @@ background-color: bisque;
 
 .sectOne {
 
-    background-image: url(../images/kid.jpg);
+    background-image: url(kid.jpg);
 
 }
 
 .sectTwo {
-    background-image: url(../images/teddy.jpg);
+    background-image: url(teddy.jpg);
 }
 
 .sectThree {
-    background-image: url(../images/block.jpg);
+    background-image: url(block.jpg);
 }
